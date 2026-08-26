@@ -1,10 +1,10 @@
 {
-  "version": "14.6.2",
+  "version": "14.7.0",
   "channel": "stable",
-  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.6.2/Instalar_Atlas_Proposta_V14.exe",
-  "sha256": "ff0ef6a42558936519e0ddb8c2e127263090f2f94347de0036f0db3f618771bd",
-  "notes": "Correção crítica do atualizador e novo controle central de acesso: somente lucas.silva é administrador; corretores são criados pelo proprietário e podem acessar em outros computadores.",
+  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.7.0/Instalar_Atlas_Proposta_V14.exe",
+  "sha256": "42b7e5729b2ec0a8cf60fc43338641a4531a039cbbbe559621fd8ec265bc24d1",
+  "notes": "Campos financeiros iniciam vazios com exemplos visuais; nova proteção comercial impede pós-chaves mais financiamento acima de 50% da renda; comparação, proposta e relatórios exibem o comprometimento combinado.",
   "mandatory": false,
   "auto_install": true,
-  "signature": "qnELpxxOVK6S5sZd2eTaI7TfVba7YnxCOnZNQTQdM9vL8WBzJ/sMxVzlaFAZz8QQnz30q+6gWz0tGKUDX5nJAg=="
+  "signature": "TGqnex9r09KlsGDEd+LMwWPgQL4//E2CCE7NrTEvnQmsXsx5Zn0CHlwN6ohf4b8nDolQXBRlFFWNMlayeaxdCg=="
 }
