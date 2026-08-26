@@ -1,10 +1,10 @@
 {
-  "version": "14.4.0",
+  "version": "14.6.0",
   "channel": "stable",
-  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.4.0/Instalar_Atlas_Proposta_V14.exe",
-  "sha256": "f881c957a5d15f053a6e080e3b5fcb03820b318d185806d07918322ef08055dd",
-  "notes": "Nova apresentação comercial em tela cheia, jornada visual de pagamento, maior compromisso mensal em destaque e experiência aprimorada para imóveis em construção e prontos para morar.",
+  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.6.0/Instalar_Atlas_Proposta_V14.exe",
+  "sha256": "284e8ac794d5e553ad4d24d607dc4ef978a7393c8380d6462a88e8bb5ce7c282",
+  "notes": "Login reforçado com bloqueio por tentativas, senha temporária obrigatória, modo guiado ou rápido, revisão visual antes da apresentação, autoria por corretor, auditoria administrativa e infraestrutura central de telemetria sem dados do cliente.",
   "mandatory": false,
   "auto_install": true,
-  "signature": "t/OhjMQqq41Q+Z937mE5RKHjg2ZRJmpoyHIlvoVOAkANKx+Zs2Rf8RTk4gYxr9JqrdUL8E91wEOYyReoD8/HAA=="
+  "signature": "oFz9aT3g7Sb2zJU0Pi1ZIBDqFElAPMsPzEOW5WLkotLCj6hNDHBqaOYkHfcnviPPIbP7JhyCsE5rKpqIspGNBA=="
 }
