@@ -1,10 +1,10 @@
 {
-  "version": "14.6.0",
+  "version": "14.6.2",
   "channel": "stable",
-  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.6.0/Instalar_Atlas_Proposta_V14.exe",
-  "sha256": "284e8ac794d5e553ad4d24d607dc4ef978a7393c8380d6462a88e8bb5ce7c282",
-  "notes": "Login reforçado com bloqueio por tentativas, senha temporária obrigatória, modo guiado ou rápido, revisão visual antes da apresentação, autoria por corretor, auditoria administrativa e infraestrutura central de telemetria sem dados do cliente.",
+  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.6.2/Instalar_Atlas_Proposta_V14.exe",
+  "sha256": "ff0ef6a42558936519e0ddb8c2e127263090f2f94347de0036f0db3f618771bd",
+  "notes": "Correção crítica do atualizador e novo controle central de acesso: somente lucas.silva é administrador; corretores são criados pelo proprietário e podem acessar em outros computadores.",
   "mandatory": false,
   "auto_install": true,
-  "signature": "oFz9aT3g7Sb2zJU0Pi1ZIBDqFElAPMsPzEOW5WLkotLCj6hNDHBqaOYkHfcnviPPIbP7JhyCsE5rKpqIspGNBA=="
+  "signature": "qnELpxxOVK6S5sZd2eTaI7TfVba7YnxCOnZNQTQdM9vL8WBzJ/sMxVzlaFAZz8QQnz30q+6gWz0tGKUDX5nJAg=="
 }
