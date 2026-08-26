@@ -1,10 +1,10 @@
 {
-  "version": "14.3.0",
+  "version": "14.4.0",
   "channel": "stable",
-  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.3.0/Instalar_Atlas_Proposta_V14.exe",
-  "sha256": "fced90de84aa4984cff404ad288285bc5b21afc5c32679da91c6fe14ad94c0a5",
-  "notes": "Entrada parcelada para imóvel pronto, apresentação financeira aprimorada, identidade Bponto e melhorias de usabilidade.",
+  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.4.0/Instalar_Atlas_Proposta_V14.exe",
+  "sha256": "f881c957a5d15f053a6e080e3b5fcb03820b318d185806d07918322ef08055dd",
+  "notes": "Nova apresentação comercial em tela cheia, jornada visual de pagamento, maior compromisso mensal em destaque e experiência aprimorada para imóveis em construção e prontos para morar.",
   "mandatory": false,
   "auto_install": true,
-  "signature": "ZE9Uoda0i5FyYEDSJJxkLIvJF6aa/FyoqawXUoArV/D8x2v8tS3fzPAe92Lczt18z/BEYdpXyWacQGPam8VrDw=="
+  "signature": "t/OhjMQqq41Q+Z937mE5RKHjg2ZRJmpoyHIlvoVOAkANKx+Zs2Rf8RTk4gYxr9JqrdUL8E91wEOYyReoD8/HAA=="
 }
