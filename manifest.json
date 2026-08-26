@@ -1,10 +1,10 @@
 {
-  "version": "14.7.2",
+  "version": "14.7.3",
   "channel": "stable",
-  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.7.2/Instalar_Atlas_Proposta_V14.exe",
-  "sha256": "7df4d912502408f014d6a4971957861fee2d9d6ec8638585950ce85b1741eb01",
-  "notes": "Corrige o atualizador automatico: instalacao sem depender do login, consulta sem cache antigo, canal oficial protegido e reinicio garantido apos a atualizacao.",
+  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.7.3/Instalar_Atlas_Proposta_V14.exe",
+  "sha256": "f2f04add7c9da8265aeddc88967aab8eb7c069ba2db0e7340a96c867743772f2",
+  "notes": "Novo empacotamento em pasta, sem executavel autoextraivel interno e sem UPX, para reduzir falsos positivos do Microsoft Defender. Mantem as correcoes do atualizador 14.7.2.",
   "mandatory": false,
   "auto_install": true,
-  "signature": "dTOzEtrlGcWLQoTZC8pW/HlCAa7rwQJynXqr/d01lxAccoOcfhhnXKakNzPIpwMbhCAgD4J/LI7Ygvx/wFB7Cg=="
+  "signature": "3xuU6mlztHwfLufQT2UsvOdDL1m+JsTsBzgScDOyqyQpJZeBNCMmFlOdmvzISutDR+eSC7arAZHDjc/QPoolDg=="
 }
