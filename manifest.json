@@ -1,10 +1,10 @@
 {
-  "version": "14.7.0",
+  "version": "14.7.1",
   "channel": "stable",
-  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.7.0/Instalar_Atlas_Proposta_V14.exe",
-  "sha256": "42b7e5729b2ec0a8cf60fc43338641a4531a039cbbbe559621fd8ec265bc24d1",
-  "notes": "Campos financeiros iniciam vazios com exemplos visuais; nova proteção comercial impede pós-chaves mais financiamento acima de 50% da renda; comparação, proposta e relatórios exibem o comprometimento combinado.",
+  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.7.1/Instalar_Atlas_Proposta_V14.exe",
+  "sha256": "7f0e5a800433b8f9ecb1cb6b85f86484410647d3da54998fdc5a8155a84d609d",
+  "notes": "Parcelas-balao agora sao tratadas exclusivamente como pagamentos pontuais: reduzem o saldo da entrada, mas ficam fora do comprometimento mensal de 50%. Telas, WhatsApp e relatorios explicam essa regra.",
   "mandatory": false,
   "auto_install": true,
-  "signature": "TGqnex9r09KlsGDEd+LMwWPgQL4//E2CCE7NrTEvnQmsXsx5Zn0CHlwN6ohf4b8nDolQXBRlFFWNMlayeaxdCg=="
+  "signature": "/d8HeUrW6PdJ9GhBInWt2G+d+pkuNpzCxsUO7gzNKlpOGZ8Iek/2qeF9bCIRAVab9mdn7+6KX+6hVGAbxRZxDA=="
 }
