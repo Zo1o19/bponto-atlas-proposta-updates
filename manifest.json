@@ -1,10 +1,10 @@
 {
-  "version": "14.7.3",
+  "version": "15.9.0",
   "channel": "stable",
-  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v14.7.3/Instalar_Atlas_Proposta_V14.exe",
-  "sha256": "f2f04add7c9da8265aeddc88967aab8eb7c069ba2db0e7340a96c867743772f2",
-  "notes": "Novo empacotamento em pasta, sem executavel autoextraivel interno e sem UPX, para reduzir falsos positivos do Microsoft Defender. Mantem as correcoes do atualizador 14.7.2.",
+  "installer_url": "https://github.com/Zo1o19/bponto-atlas-proposta-updates/releases/download/v15.9.0/Instalar_Atlas_Proposta_15_9.exe",
+  "sha256": "29e41cd2eebd6fdf75a9c2ee28d1bae83a7dc6b735170c8274d9ababb2da6977",
+  "notes": "Correções de integridade financeira e segurança: o Atlas não estima parcelas bancárias; protege simulações por usuário; unifica financiamento, subsídio e FGTS em PDF, resumo mobile e PowerPoint; e estabiliza o empacotamento 15.9.",
   "mandatory": false,
   "auto_install": true,
-  "signature": "3xuU6mlztHwfLufQT2UsvOdDL1m+JsTsBzgScDOyqyQpJZeBNCMmFlOdmvzISutDR+eSC7arAZHDjc/QPoolDg=="
+  "signature": "Q2aMhHIdClgOAD2pZw5rLCWne+upPCYZHQp2tbewhMoN4/QwmoUUniEzC0YX16zHrKZxv5sVcectpndemRtZDw=="
 }
