@@ -6,6 +6,9 @@
 🔗 LinkedIn: https://www.linkedin.com/in/lucasm-silva  
 💻 GitHub: https://github.com/Zo1o19
 
+> **Recrutadores e gestores:** quer entender meu perfil em menos de 1 minuto?  
+> ➡️ [Recruiter Quick View — resultados, produtos e por que vale uma conversa](RECRUITER-QUICK-VIEW.md)
+
 ## Sobre mim
 
 Profissional com experiência em **operações, CRM, análise de dados, atendimento e vendas**, com foco em produtividade, gestão de funil, melhoria de processos e tomada de decisão comercial.
