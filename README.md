@@ -10,3 +10,9 @@ Canal público oficial de atualizações assinadas do Atlas Proposta Bponto.
 - Simulações e configurações locais são preservadas durante a atualização.
 
 Este repositório não contém dados de clientes nem a chave privada de assinatura.
+
+## Portfólio profissional
+
+Conheça também meu trabalho com Sales Operations, CRM, Data Analytics, automação e produtos para equipes comerciais:
+
+➡️ [Portfólio — Lucas Silva](PORTFOLIO.md)
