@@ -1,4 +1,4 @@
-# Lucas Silva — Sales Operations, CRM, Data & Product Automation
+# Lucas Silva — Sales Operations, RevOps, Data & Product Automation
 
 📍 Sorocaba, SP  
 📞 (15) 98842-2020  
@@ -8,98 +8,193 @@
 
 ## Sobre mim
 
-Profissional com experiência em operações, CRM, análise de dados, atendimento e vendas, com foco em produtividade, gestão de funil, melhoria de processos e tomada de decisão comercial.
+Profissional com experiência em **operações, CRM, análise de dados, atendimento e vendas**, com foco em produtividade, gestão de funil, melhoria de processos e tomada de decisão comercial.
 
-Minha trajetória combina três frentes: experiência operacional em ambiente de alto volume, atuação comercial no mercado imobiliário e desenvolvimento de ferramentas próprias para resolver problemas reais de equipes de vendas.
+Minha trajetória combina experiência operacional em ambiente de alto volume, atuação comercial no mercado imobiliário e desenvolvimento de **produtos próprios de Sales Tech** para resolver problemas observados na operação real.
 
-Na Afinz, evoluí de atendimento para análise cadastral, aumentando minha produtividade de aproximadamente 5 para até 50 análises por dia, com volume próximo de 900 análises mensais.
+Na Afinz, evoluí de atendimento para análise cadastral, aumentando minha produtividade de aproximadamente **5 para até 50 análises por dia**, com volume próximo de **900 análises mensais**.
 
-Atualmente atuo no mercado imobiliário e desenvolvo soluções de Sales Tech, automação e inteligência comercial.
+Atualmente atuo no mercado imobiliário e desenvolvo o **Ecossistema Atlas**, conectando gestão de leads, análise de performance, propostas, distribuição, automação, analytics e inteligência comercial.
 
-## Projetos em destaque
+# Ecossistema Atlas
 
-### Atlas OS — Inteligência de Performance Comercial
+O Atlas não é apenas um dashboard. É uma arquitetura de produtos e módulos voltada ao ciclo comercial e de aquisição.
 
-Plataforma própria para acompanhamento de resultados de equipes de vendas, já utilizada por profissionais da equipe comercial.
+```text
+CAPTAÇÃO / CAMPANHAS
+        ↓
+    ATLAS LEADS
+        ↓
+QUALIFICAÇÃO / CRM
+        ↓
+ ATLAS PROPOSTA
+        ↓
+ATLAS OS / COMMAND CENTER
+        ↓
+PARETO · INSIGHTS · PRÓXIMAS AÇÕES
+```
 
-Principais frentes:
-- acompanhamento de leads, visitas, propostas e vendas;
-- análise de performance individual e coletiva;
-- leitura do funil comercial;
-- identificação de gargalos de conversão;
-- acompanhamento de produtividade;
-- dashboards e KPIs comerciais;
-- análise de resultados por período;
-- aplicação do Princípio de Pareto 80/20;
-- identificação de vendedores, canais, oportunidades e ações que concentram a maior parcela dos resultados;
-- apoio à priorização de ações comerciais com maior impacto.
+Em paralelo, o fluxo de aquisição e conteúdo:
 
-**Valor gerado:** transformar dados operacionais da equipe em informação acionável para vendedores e gestores.
+```text
+CAMPANHA → CONTEÚDO → QA → APROVAÇÃO → ATLAS DISTRIBUTION
+                                      ↓
+                              MÉTRICAS / LEADS
+                                      ↓
+                                  ATLAS OS
+```
 
-➡️ [Ver estudo de caso do Atlas OS](portfolio/atlas-os.md)
+➡️ [Ver arquitetura completa do Ecossistema Atlas](portfolio/ecossistema-atlas.md)
 
-### Calculadora de Entrada e Viabilidade Imobiliária
+# Produtos em destaque
 
-Ferramenta desenvolvida para corretores, com foco em automatizar cálculos financeiros e tornar a apresentação das condições de compra mais rápida e compreensível.
+## Atlas OS — Inteligência de Performance Comercial
+**Produto próprio | Em uso por equipe comercial**
 
-Principais recursos:
-- cálculo da entrada total;
-- distribuição entre ato, obra e pós-chaves;
-- simulação de financiamento;
-- aplicação de FGTS e subsídios;
-- análise de capacidade financeira;
-- comparação de estruturas de pagamento;
-- organização automática da simulação para apresentação ao cliente.
+Plataforma para acompanhamento e análise de performance de equipes de vendas.
 
-**Valor gerado:** reduzir cálculos manuais, padronizar simulações e dar mais agilidade ao atendimento comercial.
+- Leads, visitas, propostas e vendas.
+- Performance individual e coletiva.
+- Funil e taxas de conversão.
+- Comparação de resultados por período.
+- Identificação de gargalos.
+- KPIs e dashboards comerciais.
+- Aplicação do **Princípio de Pareto 80/20**.
+- Priorização das ações, vendedores, canais e oportunidades de maior impacto.
 
-➡️ [Ver estudo de caso da Calculadora](portfolio/calculadora-imobiliaria.md)
+**Valor gerado:** transformar dados operacionais em informação acionável para vendedores e gestores.
 
-## Experiência
+➡️ [Estudo de caso: Atlas OS](portfolio/atlas-os.md)
 
-### Corretor de Imóveis — 2026 até o momento
+## Atlas Leads — Lead Management & CRM Intelligence
+**Produto/módulo | Em desenvolvimento contínuo**
 
-- Gestão de leads durante o ciclo comercial.
+Camada voltada a organizar, qualificar e acompanhar oportunidades comerciais.
+
+- Captura e centralização de leads.
+- Deduplicação de contatos.
+- Registro de origem e contexto.
+- Qualificação e status.
+- Próximos passos e follow-up.
+- Pipeline comercial.
+- Integração com indicadores de performance.
+
+**Valor gerado:** reduzir perda de informação, melhorar qualidade dos dados e aumentar disciplina do processo comercial.
+
+➡️ [Estudo de caso: Atlas Leads](portfolio/atlas-leads.md)
+
+## Atlas Proposta — Calculadora de Entrada e Viabilidade Imobiliária
+**Produto próprio para corretores | Funcional e em evolução**
+
+Ferramenta criada para automatizar análises financeiras durante o atendimento imobiliário.
+
+- Cálculo de entrada total.
+- Distribuição entre ato, obra e pós-chaves.
+- Financiamento.
+- FGTS e subsídios.
+- Capacidade financeira.
+- Comparação de cenários.
+- Organização automática da simulação para apresentação ao cliente.
+
+**Valor gerado:** reduzir cálculos manuais, padronizar simulações e acelerar a conversa sobre viabilidade de compra.
+
+➡️ [Estudo de caso: Atlas Proposta / Calculadora](portfolio/calculadora-imobiliaria.md)
+
+## Atlas Distribution — Growth & Distribution Pipeline
+**Pipeline técnico | Infraestrutura implementada e em evolução**
+
+Estrutura criada para controlar a distribuição de conteúdo e campanhas com qualidade, rastreabilidade e conexão com métricas comerciais.
+
+- Pipeline de conteúdo.
+- QA antes da distribuição.
+- Aprovação.
+- Estados formais de execução.
+- Jobs e retries.
+- Prevenção de duplicidade.
+- Distribuição para canais conectados.
+- Métricas pós-publicação.
+- Conexão com leads e attribution.
+
+O ecossistema possui um **worker privado em Python** dedicado ao pipeline de renderização, QA e distribuição para Meta.
+
+➡️ [Estudo de caso: Atlas Distribution](portfolio/atlas-distribution.md)
+
+# Outros módulos do ecossistema
+
+## Content Engine & Quality Gateway
+Estrutura para transformar ideias em roteiros e conteúdos, passando por análise de qualidade, aprovação e distribuição.
+
+O Quality Gateway considera dimensões como clareza, aderência ao público, SEO, CTA, factualidade e risco antes do conteúdo avançar no fluxo.
+
+## Analytics & Attribution
+Camada de medição para conectar conteúdo, plataforma, campanha e CTA aos resultados comerciais.
+
+Fluxo analisado:
+
+**Conteúdo → Clique → Lead → Qualificado → Simulação → Visita → Venda**
+
+## Insight Engine
+Transforma métricas em recomendações acionáveis para operação, evitando conclusões quando os dados ainda são insuficientes.
+
+## Automação Comercial
+Frentes de automação para:
+
+- follow-ups;
+- tarefas repetitivas;
+- atualização de dados;
+- sincronização entre pontos do processo;
+- prevenção de duplicidade;
+- priorização de oportunidades;
+- IA aplicada à operação de vendas.
+
+# Experiência profissional
+
+## Corretor de Imóveis — 2026 até o momento
+
+- Gestão de leads ao longo do ciclo comercial.
 - Qualificação por perfil, renda, necessidade e potencial de compra.
 - Pipeline e follow-up.
 - Análise de financiamento, entrada, subsídios e viabilidade financeira.
 - Acompanhamento de visitas, propostas e oportunidades.
 - Uso de CRM, WhatsApp, indicadores e automações.
-- Desenvolvimento de ferramentas internas para aumentar produtividade da equipe.
+- Identificação de gargalos do funil.
+- Desenvolvimento de produtos internos para melhorar produtividade e tomada de decisão da equipe.
 
-### Afinz — 2022 a 2025
+## Afinz — 2022 a 2025
 
-Trajetória: Atendimento → Assistente de Cadastro → Analista de Cadastro Jr.
+**Trajetória:** Atendimento → Assistente de Cadastro → Analista de Cadastro Jr.
 
-Resultados e responsabilidades:
-- evolução de aproximadamente 5 para até 50 análises por dia;
-- aproximadamente 900 análises mensais;
-- análise cadastral e documental;
-- tratamento de inconsistências;
-- priorização de demandas;
-- atuação com LGPD e segurança da informação;
-- melhoria e organização de processos operacionais.
+- Evolução de aproximadamente **5 para até 50 análises por dia**.
+- Aproximadamente **900 análises mensais**.
+- Análise cadastral e documental.
+- Tratamento de inconsistências.
+- Priorização de demandas.
+- Atuação com LGPD e segurança da informação.
+- Melhoria e organização de processos operacionais.
 
-## Competências
+# Competências
 
-**Sales Operations & CRM**  
-CRM · Pipeline · Gestão de Leads · Funil de Vendas · Qualificação · Follow-up · Salesforce · Ploomes
+**Sales Operations & RevOps**  
+CRM · Gestão de Leads · Pipeline · Funil · Qualificação · Follow-up · Attribution · Salesforce · Ploomes
 
 **Data & Business Intelligence**  
 Excel · Power BI · Microsoft Fabric · KPIs · Dashboards · Análise de Conversão · Pareto 80/20 · SQL em desenvolvimento
 
 **Produto & Automação**  
-Desenvolvimento de Produtos · Automação de Processos · Inteligência Artificial · Product Thinking · Melhoria de Processos
+Product Thinking · Desenvolvimento de Produtos · Automação de Processos · Inteligência Artificial · Workflow Design · Melhoria Contínua
+
+**Growth & Operations**  
+Distribution · QA · Campaign Operations · Analytics · Attribution · Lead Management
 
 **Comercial**  
 Vendas Consultivas · Negociação · Atendimento ao Cliente · Customer Success · Análise de Necessidades
 
-## Formação
+# Formação
 
 **Tecnologia em Análise e Desenvolvimento de Sistemas — UNISO**  
 Em andamento
 
-## Idiomas
+# Idiomas
 
 - Português: Nativo
 - Inglês: Intermediário
@@ -107,6 +202,6 @@ Em andamento
 
 ---
 
-### Posicionamento
+## Posicionamento
 
-Construo soluções a partir de problemas reais de operação e vendas, conectando negócio, dados e automação para melhorar produtividade, conversão e tomada de decisão.
+**Identifico problemas reais de operação e vendas e transformo esses problemas em produtos, dados e automações que melhoram produtividade, conversão e tomada de decisão.**
